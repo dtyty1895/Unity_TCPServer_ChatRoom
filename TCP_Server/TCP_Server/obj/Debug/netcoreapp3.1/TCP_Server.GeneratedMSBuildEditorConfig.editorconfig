@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TCP_Server
+build_property.ProjectDir = D:\Unity_Project\TCP_Connect_Chat\TCP_Server\TCP_Server\
